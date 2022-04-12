@@ -1,9 +1,4 @@
 
-.l-image-component[data-v-1e970aa2] {
-  max-width: 100%;
-  position: relative!important;
-}
-
 .l-text-component[data-v-6bf95b7a] {
   box-sizing: border-box;
   white-space: pre-wrap;
@@ -15,4 +10,9 @@ h2.l-text-component[data-v-6bf95b7a], p.l-text-component[data-v-6bf95b7a] {
 button.l-text-component[data-v-6bf95b7a] {
   padding: 5px 10px;
   cursor: pointer;
+}
+
+.l-image-component[data-v-1e970aa2] {
+  max-width: 100%;
+  position: relative!important;
 }
